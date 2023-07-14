@@ -30,11 +30,11 @@
 
 a）进入解压后的文件夹，双击startup.bat，启动本地客户端。
 
-![输入图片说明](image/1-3.png)
+![image](https://github.com/feisuanyz/testplatform/assets/79617492/0e20dd13-fa2d-4208-9899-c7a20f539724)
 
 b）若出现如图所示程序，即说明本地客户端启动成功。
 
-![输入图片说明](image/1-4.png)
+![image](https://github.com/feisuanyz/testplatform/assets/79617492/0ba777a1-89b6-4ea5-99d1-7a59892984ac)
 
 c）在浏览器地址栏输入本地服务器地址加上端口号，回车进入登录页面。
 
@@ -50,10 +50,11 @@ atp:
     host: 172.16.101.35
 ```
 
-![输入图片说明](image/1-5.png)
+![image](https://github.com/feisuanyz/testplatform/assets/79617492/0f44d375-0870-43f0-a62c-886c412ceaad)
 
 d）输入正确的账号和密码，登录成功即可正常访问全自动测试平台。
 
 说明：g1）通过本地客户端访问全自动测试平台的账号密码，与通过飞算云智官网访问全自动测试平台的账号密码一致；g2）也可在浏览器中新建页面，输入地址后用不同账号登录本地客户端，此时可以多个账号同时登录并互不干扰。
 
-![输入图片说明](image/1-7.png)
+![image](https://github.com/feisuanyz/testplatform/assets/79617492/4b669f82-2ab3-48c4-b812-4bc426b771e9)
+
