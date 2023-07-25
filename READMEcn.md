@@ -12,7 +12,8 @@
 | 运行内存     | 推荐 16 G 以上                |
 | 软件安装磁盘容量 | 至少1 GB 容量以上               |
 
-历史版本客户端及安装配置说明，请查阅[《客户端下载资源及安装说明》](https://github.com/feisuanyz/testplatform/blob/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/%E5%85%A8%E8%87%AA%E5%8A%A8%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)。
+历史版本客户端及安装配置说明，请查阅[《ATP Installation Resource》](https://github.com/feisuanyz/Automated-Testing-Platform/tree/main/.%20ATP%20Installation%20Resource)。
+
 ===============================================
 
 全自动测试平台，覆盖整个软件测试的生命周期管理，包含测试用例管理、测试计划管理、接口测试、性能测试等功能，并且完全兼容JMeter，可以一键关联和同步Java全自动开发工具的项目和项目中所有的接口信息，通过高度自动化的测试来赋能团队进行高质量的软件交付和整体测试效率的提升。
@@ -37,7 +38,7 @@ b）若出现如图所示程序，即说明本地客户端启动成功。
 
 c）在浏览器地址栏输入本地服务器地址加上端口号，回车进入登录页面。
 
-说明：f1）此处输入的端口号需确保未被占用，默认为8080；若需修改端口号，可在application.yml配置文件中修改端口，application.yml配置文件内容如下所示，端口号可自行设置；f2）本地客户端运行性能测试需要填写host地址，host为部署本地客户端的服务地址。
+说明：c1）此处输入的端口号需确保未被占用，默认为8080；若需修改端口号，可在application.yml配置文件中修改端口，application.yml配置文件内容如下所示，端口号可自行设置；c2）本地客户端运行性能测试需要填写host地址，host为部署本地客户端的服务地址。
 
 ```
 server:
@@ -52,3 +53,7 @@ atp:
 ![image](https://github.com/feisuanyz/testplatform/assets/79617492/0f44d375-0870-43f0-a62c-886c412ceaad)
 
 d）输入正确的账号和密码，登录成功即可正常访问全自动测试平台。
+
+说明：d1）通过本地客户端访问全自动测试平台的账号密码，与通过飞算云智官网访问全自动测试平台的账号密码一致；d2）也可在浏览器中新建页面，输入地址后用不同账号登录本地客户端，此时可以多个账号同时登录并互不干扰。
+
+![image](https://github.com/feisuanyz/testplatform/assets/79617492/4b669f82-2ab3-48c4-b812-4bc426b771e9)
