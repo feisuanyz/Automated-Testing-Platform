@@ -12,7 +12,7 @@
 | 运行内存     | 推荐 16 G 以上                |
 | 软件安装磁盘容量 | 至少1 GB 容量以上               |
 
-历史版本客户端及安装配置说明，请查阅[《客户端下载资源及安装说明》](https://gitee.com/feisuanyz/frontend/blob/main/.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8F%8A%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E%20/%E5%89%8D%E7%AB%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md)。
+历史版本客户端及安装配置说明，请查阅[《ATP Installation Resource》](https://github.com/feisuanyz/Automated-Testing-Platform/tree/main/.%20ATP%20Installation%20Resource)。
 
 ===============================================
 
