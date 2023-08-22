@@ -2,7 +2,7 @@
 -----------------------------------
 语言：[中文](https://github.com/feisuanyz/Automated-Testing-Platform/blob/main/READMEcn.md) | [English](https://github.com/feisuanyz/Automated-Testing-Platform/blob/main/README.md)
 
-最新版本客户端：[Window和Linux版本](https://main.feisuanyz.com:8080/atp/feisuanyz-local-client.zip)
+最新版本客户端：[Windows和Linux版本](https://main.feisuanyz.com:8080/atp/feisuanyz-local-client.zip)
 
 安装环境配置要求：
 
