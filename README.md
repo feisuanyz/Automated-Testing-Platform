@@ -2,7 +2,7 @@ Automated Testing Platform（ATP）
 -----------------------------------
 Language: [English](https://github.com/feisuanyz/Automated-Testing-Platform/blob/main/README.md) | [中文](https://github.com/feisuanyz/Automated-Testing-Platform/blob/main/READMEcn.md)
 
-Client Download：[For Window & Linux](https://main.feisuanyz.com:8080/atp/feisuanyz-local-client.zip)
+Client Download：[For Windows & Linux](https://main.feisuanyz.com:8080/atp/feisuanyz-local-client.zip)
 
 Installation Environment：
 
